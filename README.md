@@ -1,5 +1,5 @@
 # Database_Python
-##Pruebas
+## Pruebas
 Bases de datos implementadas con python
 + MYSQL
 + PostgreSQL
